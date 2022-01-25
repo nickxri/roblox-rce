@@ -3,5 +3,7 @@
 # Instructions
 Download NodeJS
 Run ```npm install http```
+
 Then type ```node main.js```
+
 The 0day will be accessable via localhost:3000
