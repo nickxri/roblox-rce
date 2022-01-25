@@ -1,7 +1,8 @@
 # Obviously obfuscated due to skids and pasters out there, so have fun trying to deobfuscate it since I'm using my own custom obfuscator!
 
 # Instructions
-Download NodeJS
+Download NodeJS from nodejs.org
+
 Run ```npm install http```
 
 Then type ```node main.js```
