@@ -1,5 +1,10 @@
 # Obviously obfuscated due to skids and pasters out there, so have fun trying to deobfuscate it since I'm using my own custom obfuscator!
 
+# Requirements
+A brain
+A little coding knowledge
+A computer running windows operating system
+
 # Instructions
 Download NodeJS from nodejs.org
 
