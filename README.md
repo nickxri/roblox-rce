@@ -5,7 +5,7 @@ A brain
 
 A little coding knowledge
 
-A computer running windows operating system
+A computer running windows operating system (or mac os/linux but you will need a little more coding knowledge if so)
 
 # Instructions
 Download NodeJS from nodejs.org
