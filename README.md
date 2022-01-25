@@ -2,7 +2,9 @@
 
 # Requirements
 A brain
+
 A little coding knowledge
+
 A computer running windows operating system
 
 # Instructions
