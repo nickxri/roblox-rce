@@ -3,8 +3,14 @@
 # Instructions
 Download NodeJS from nodejs.org
 
-Run ```npm install http```
+Open cmd, also known as command prompt
 
-Then type ```node main.js```
+Go to the directory where you downloaded the main.js using ```cd FolderName```
+
+Run ```npm init -y```
+
+And then ```npm install http```
+
+Plus type ```node main.js``` for it to start
 
 The 0day will be accessable via localhost:3000
