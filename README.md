@@ -18,6 +18,8 @@ Run ```npm init -y```
 
 And then ```npm install http```
 
+Forgot to mention  ```npm install base-64```
+
 Plus type ```node main.js``` for it to start
 
 The 0day will be accessable via localhost:3000
