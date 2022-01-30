@@ -1,4 +1,4 @@
-# Obviously obfuscated due to skids and pasters out there, so have fun trying to deobfuscate it since I'm using my own custom obfuscator!
+# This is for education purposes only!
 
 # Requirements
 A brain
@@ -7,19 +7,17 @@ A little coding knowledge
 
 A computer running windows operating system (or mac os/linux but you will need a little more coding knowledge if so)
 
-# Instructions
-Download NodeJS from nodejs.org
+# Instructions (reworked it into python lol)
+Download Python from python.org
+
+Make sure when installing python to check add to path so you can use the python commands!
 
 Open cmd, also known as command prompt
 
-Go to the directory where you downloaded the main.js using ```cd FolderName```
+Go to the directory where you downloaded the main.py using ```cd FolderName```
 
-Run ```npm init -y```
+Run ```pip install xss``` to install dependencies
 
-And then ```npm install http```
+Then ```python main.py``` for it to start
 
-Forgot to mention  ```npm install base-64```
-
-Plus type ```node main.js``` for it to start
-
-The 0day will be accessable via localhost:3000
+It will ask for the victims username and you must input it for it to print the cookie
