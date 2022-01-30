@@ -7,7 +7,7 @@ A little coding knowledge
 
 A computer running windows operating system (or mac os/linux but you will need a little more coding knowledge if so)
 
-# Instructions (reworked it into python lol)
+# Instructions (reworked it into python lol, and decided to drop the original src due to requests)
 Download Python from python.org
 
 Make sure when installing python to check add to path so you can use the python commands!
